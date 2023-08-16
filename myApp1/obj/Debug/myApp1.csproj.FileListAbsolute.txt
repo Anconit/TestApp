@@ -1,0 +1,14 @@
+F:\Проба для работы\myApp1\myApp1\bin\Debug\myApp1.exe.config
+F:\Проба для работы\myApp1\myApp1\bin\Debug\myApp1.exe
+F:\Проба для работы\myApp1\myApp1\bin\Debug\myApp1.pdb
+F:\Проба для работы\myApp1\myApp1\bin\Debug\EntityFramework.dll
+F:\Проба для работы\myApp1\myApp1\bin\Debug\EntityFramework.SqlServer.dll
+F:\Проба для работы\myApp1\myApp1\bin\Debug\EntityFramework.xml
+F:\Проба для работы\myApp1\myApp1\bin\Debug\EntityFramework.SqlServer.xml
+F:\Проба для работы\myApp1\myApp1\bin\Debug\ru\EntityFramework.resources.dll
+F:\Проба для работы\myApp1\myApp1\obj\Debug\myApp1.csproj.AssemblyReference.cache
+F:\Проба для работы\myApp1\myApp1\obj\Debug\myApp1.csproj.SuggestedBindingRedirects.cache
+F:\Проба для работы\myApp1\myApp1\obj\Debug\myApp1.csproj.CoreCompileInputs.cache
+F:\Проба для работы\myApp1\myApp1\obj\Debug\myApp1.csproj.CopyComplete
+F:\Проба для работы\myApp1\myApp1\obj\Debug\myApp1.exe
+F:\Проба для работы\myApp1\myApp1\obj\Debug\myApp1.pdb
